@@ -29,7 +29,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - D:\Flutter Applications\notes_app_2\assets\splash\logo_note.png
+    - Notes-App-Flutter\assets\splash\logo_note.png
     - assets\splash\logo_note_tracker.png
 
 
